@@ -1,4 +1,5 @@
 # RUTHWIK DOVALA (801431661)
+Email ID: rdovala@charlotte.edu
 # Cloud Computing for Data Analysis – Hands-On L3
 ITCS 6190/8190 – Fall 2025
 
